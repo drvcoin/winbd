@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# Visual Studio Temporary Files
+Debug
+Release
+x64/Debug
+x64/Release
+*.vcxproj.user
+
